@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About
-
+  My name is Rafał Korzeniec. I am a software tester - currently testing voluntarily or on behalf of the web pages. At the same time, I am gaining my first experience in the IT industry as a tester. Like many before me, I needed some time to find my career path. I have chosen the software tester path which suits my nature. I am inquisitive and meticulous and "looking for a hole in the whole". In working with the client, I learned to take care of the quality of the services provided. While working for banks, I got to know the specifics of corporate software and what bugs may occur in it. Also during the merger of the BNP Paribas and Raiffeisen banks' systems, I participated in acceptance tests of cash register applications. In my modest portfolio I would like to present my little testing and programming achievements. The portfolio is constantly expanded with new projects and old projects updates.
 
 ## Skills
 - Manual testing
