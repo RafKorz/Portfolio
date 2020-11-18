@@ -31,7 +31,10 @@
 - Github
 
 ## Courses and trainings
-
+- Software Tester (116 hours, Software Development Academy)-From all internal exams,I obtained more than 80% of the marks
+- Java from Scratch to Expert - Build Your Own Apps (31 hours, Udemy.com)
+- Design Patterns (5.5 hours, Udemy.com)
+- Introduction to Git and GitHub (5 hours, Udemy, com)
 
 ## Projects
 - Testing project of webstore - final project of Software Development Academy "Software tester" course -> https://github.com/RafKorz/Test_project_of_webstore
