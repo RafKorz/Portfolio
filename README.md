@@ -39,6 +39,7 @@
 ## Projects
 - Testing project of webstore - final project of Software Development Academy "Software tester" course -> https://github.com/RafKorz/Test_project_of_webstore
 - Testing project of Parish of St. Andrew -> https://github.com/RafKorz/TestSwietegoAndrzejaTorun
+- Testing project of Congress of the New Right -> https://github.com/RafKorz/Test_of_page_KNP
 - Testing project of webstore of SPTech -> https://github.com/RafKorz/SPTechTestWebstore
 - Testing project in Selenium IDE of https://www.seleniumeasy.com/ page -> https://github.com/RafKorz/SeleniumEasyAutoTest
 - Java project - application displaying the hours of outgoing and incoming transfers in some banks in Poland -> https://github.com/RafKorz/Incoming-outgoing-bank-transfers
