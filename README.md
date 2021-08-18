@@ -1,19 +1,21 @@
 # Portfolio
 
 ## About
-  My name is Rafał Korzeniec. I am a software tester - currently testing voluntarily or on behalf of the web pages. At the same time, I am gaining my first experience in the IT industry as a tester. Like many before me, I needed some time to find my career path. I have chosen the software tester path which suits my nature. I am inquisitive and meticulous and "looking for a hole in the whole". In working with the client, I learned to take care of the quality of the services provided. While working for banks, I got to know the specifics of corporate software and what bugs may occur in it. Also during the merger of the BNP Paribas and Raiffeisen banks' systems, I participated in acceptance tests of cash register applications. In my modest portfolio I would like to present my little testing and programming achievements. The portfolio is constantly expanded with new projects and old projects updates.
+  Software Tester with over a year of experience in testing webapplications, including 6 months of experience in medical branch and 5 years experience in banking and sales. It characterizes me analytical thinking as well as creativity and meticulousness. Has developed skills with interpersonal communication.
 
 ## Skills
 - Manual testing
 - Automation testing
 - BDD
 - Cucumber/Gherkin
-- Selenium Webdriver
+- Selenium Webdriver Java
+- Selenium Webdriver C#
 - Selenium IDE
 - Java
+- C# .NET
 - HTML/CSS
 - SQL
-- Creating test cases
+- Creating test cases and scenarios
 - Creating user stories
 - Reporting bugs
 - Agile & Scrum
@@ -21,10 +23,12 @@
 ## Knowledge of tools
 - Jira
 - TestRail
+- TestLink
 - Trello
 - Confluence
 - InteliJ
 - NetBeans
+- Visual Studio
 - Selenium IDE
 - Postman
 - JMeter
@@ -37,8 +41,12 @@
 - Introduction to Git and GitHub (5 hours, Udemy, com)
 
 ## Projects
+- Automation test of navigation in wikipedia in Selenium Webdriver C# -> https://github.com/RafKorz/NavigationOnWikipedia
+- Automation test of wikipedia in Selenium C# -> https://github.com/RafKorz/WikipediaTestingProject
+- Automation test of wikipedia in Selenium Webdriver Java -> https://github.com/RafKorz/XYZ
 - Testing project of webstore - final project of Software Development Academy "Software tester" course -> https://github.com/RafKorz/Test_project_of_webstore
 - Testing project of Parish of St. Andrew -> https://github.com/RafKorz/TestSwietegoAndrzejaTorun
+  -> Automation test in Selenium Webdriver Java of Office sub-page on page of Parish St. Andres -> https://github.com/RafKorz/TestSwietegoAndrzejaTorun/tree/master/ŚwiętyAndrzejTest/testOfParishOffice/src/test/java
 - Testing project of Congress of the New Right -> https://github.com/RafKorz/Test_of_page_KNP
 - Testing project of webstore of SPTech -> https://github.com/RafKorz/SPTechTestWebstore
 - Testing project in Selenium IDE of https://www.seleniumeasy.com/ page -> https://github.com/RafKorz/SeleniumEasyAutoTest
