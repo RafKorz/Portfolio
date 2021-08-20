@@ -44,6 +44,7 @@
 - Automation test of navigation in wikipedia in Selenium Webdriver C# -> https://github.com/RafKorz/NavigationOnWikipedia
 - Automation test of wikipedia in Selenium C# -> https://github.com/RafKorz/WikipediaTestingProject
 - Automation test of navigation on wikipedia in Selenium Webdriver Java -> https://github.com/RafKorz/XYZ
+- Automatic test of historical articles on wikipedia -> https://github.com/RafKorz/Automatic_test_of_historical_articles_on_wikipedia
 - Testing project of webstore - final project of Software Development Academy "Software tester" course -> https://github.com/RafKorz/Test_project_of_webstore
 - Testing project of Parish of St. Andrew -> https://github.com/RafKorz/TestSwietegoAndrzejaTorun
   -> Automation test in Selenium Webdriver Java of Office sub-page on page of Parish St. Andres -> https://github.com/RafKorz/TestSwietegoAndrzejaTorun/tree/master/ŚwiętyAndrzejTest/testOfParishOffice/src/test/java
