@@ -41,6 +41,7 @@
 - Introduction to Git and GitHub (5 hours, Udemy, com)
 
 ## Projects
+- Automation test of wikipedia article in Selenium WebDriver Java with Cucumber/Gherkin -> https://github.com/RafKorz/Cucumber_historical_article_automated_test/tree/main/AnnalesSeuCronicaeInclitiRegniPoloniaeIoannisDlugossi
 - Automation test of navigation in wikipedia in Selenium WebDriver C# -> https://github.com/RafKorz/NavigationOnWikipedia
 - Automation test of wikipedia in Selenium WebDriver C# -> https://github.com/RafKorz/WikipediaTestingProject
 - Automation test of navigation on wikipedia in Selenium WebDriver Java -> https://github.com/RafKorz/XYZ
